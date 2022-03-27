@@ -1,3 +1,7 @@
+# Run server first
+
+npx json-server --watch Database/db.json --port 3004
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
